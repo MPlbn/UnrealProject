@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/AH/Q7KC01Q0GK3F35GNKN3FAF.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
