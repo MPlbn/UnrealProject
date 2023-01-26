@@ -1942,3 +1942,102 @@ Script Stack (0 frames) :
 [2023.01.26-17.13.06:092][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2023.01.26-17.13.06:101][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2023.01.26-17.13.06:143][525]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.26-17.13.46:438][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.26-17.14.16:885][719]LogSlate: Window 'Save Content' being destroyed
+[2023.01.26-17.14.17:169][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.26-17.14.17:603][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.26-17.14.17:638][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.26-17.14.17:675][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.26-17.14.18:070][719]SourceControl: Error: Updated 0 paths from the index
+[2023.01.26-17.14.18:345][719]SourceControl: rm 'Gierka/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2023.01.26-17.14.18:453][719]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.01.26-17.14.18:453][719]LogSavePackage: Moving '../../../../GitHubRepos/UnrealProject/Gierka/Saved/BP_FirstPersonCharacterE4296B484C2FEDD364EF76A00E69C41B.tmp' to '../../../../GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.01.26-17.14.18:479][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.31 sec (total: 4.44 sec)
+[2023.01.26-17.14.18:480][719]LogStall: Shutdown...
+[2023.01.26-17.14.18:498][719]LogStall: Shutdown complete.
+[2023.01.26-17.14.18:585][719]LogSlate: Window 'Gierka - Unreal Editor' being destroyed
+[2023.01.26-17.14.18:852][719]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.01.26-17.14.18:852][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.26-17.14.18:854][720]Cmd: QUIT_EDITOR
+[2023.01.26-17.14.18:854][720]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.26-17.14.18:923][720]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.26-17.14.18:923][720]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.01.26-17.14.18:936][720]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.01.26-17.14.18:960][720]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.18:961][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.26-17.14.18:991][720]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.01.26-17.14.19:217][720]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.01.26-17.14.19:304][720]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.01.26-17.14.20:612][720]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.26-17.14.20:612][720]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.26-17.14.20:612][720]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2023.01.26-17.14.20:612][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.26-17.14.20:614][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.01.26-17.14.20:644][720]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.26-17.14.20:729][720]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.26-17.14.20:801][720]LogExit: Preparing to exit.
+[2023.01.26-17.14.21:329][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.26-17.14.21:356][720]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.21:357][720]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.01.26-17.14.23:055][720]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:057][720]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:058][720]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:060][720]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:062][720]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:063][720]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:065][720]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.26-17.14.23:444][720]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.01.26-17.14.23:575][720]LogExit: Editor shut down
+[2023.01.26-17.14.23:579][720]LogExit: Transaction tracking system shut down
+[2023.01.26-17.14.28:428][720]LogExit: Object subsystem successfully closed.
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: ================================================
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Total job queries 142, among them cache hits 9 (6.34%)
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Tracking 133 distinct input hashes that result in 105 distinct outputs (78.95%)
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: RAM used: 0.41 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.07%
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Average time worker was idle: 24.68 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Time job spent in pending queue: average 1.64 s, longest 5.35 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Job execution time: average 2.40 s, max 4.57 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Job life time (pending + execution): average 4.04 s, max 6.06
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.58 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Average processing rate: 1.16 jobs/sec
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Total thread time: 24.86 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Total thread preprocess time: 2.03 s
+[2023.01.26-17.14.28:433][720]LogShaderCompilers: Display: Percentage time preprocessing: 8.16%
+[2023.01.26-17.14.28:441][720]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.01.26-17.14.28:441][720]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.97 sec, max 2.60 sec, min 1.43 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.96 sec, max 2.71 sec, min 1.52 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.33 sec, max 2.02 sec, min 0.88 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.38 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.67% of total time (compiled    4 times, average 1.97 sec, max 2.60 sec, min 1.43 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.48% of total time (compiled    4 times, average 1.96 sec, max 2.71 sec, min 1.52 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.33% of total time (compiled    4 times, average 1.33 sec, max 2.02 sec, min 0.88 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.75% of total time (compiled    4 times, average 0.61 sec, max 0.89 sec, min 0.38 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.03% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.01.26-17.14.28:442][720]LogShaderCompilers: Display: ================================================
+[2023.01.26-17.14.28:543][720]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.26-17.14.28:753][720]LogVirtualization: UE::Virtualization was shutdown
