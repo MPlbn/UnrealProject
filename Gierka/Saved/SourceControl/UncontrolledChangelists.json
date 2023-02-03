@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/StarterContent/Props/SM_PillarFrame.uasset",
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/Material/M_Lights.uasset",
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/_GENERATED/adasiu/Box_778361FF.uasset",
@@ -66,6 +67,18 @@
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/BACKROOMS/Materials/Basic/M_Lights.uasset",
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/Audio/SW_FluorescentHum_01.uasset",
 				"/Users/adasiu/Documents/GitHub/UnrealProject/Gierka/Content/BACKROOMS/Audio/SW_FluorescentHum_01.uasset"
+=======
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/MenuWidget.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/MenuLevel.umap",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/MenuAssets/background.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/MenuAssets/who_asks_satan.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/MenuAssets/who_asks_satan_Font.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/onDeathScreenWidget.uasset",
+				"C:/Users/Grzegorz/Documents/GitHub/UnrealProject/Gierka/Content/Menu/onDeathScreen.umap"
+>>>>>>> Menu
 			]
 		}
 	]
