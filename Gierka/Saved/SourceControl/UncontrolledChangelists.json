@@ -23,7 +23,21 @@
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Cios.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/CiosMontage.uasset",
-				"K:/GitHubRepos/UnrealProject/Gierka/Content/Menu/MenuWidget.uasset"
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/Menu/MenuWidget.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/step.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/FootstepsSound.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Pumpkinhulk_L_Shaw_Mutant_Walking.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Pumpkinhulk_L_Shaw_Drunk_Run_Forward.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/mixkit-hard-and-quick-punch-2143.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/step.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Breathing_Idle.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/AleRyczy.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/beep-01a.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/Menu/onDeathScreenWidget.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/Redscreen.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/ChangePlayerScreen.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/beep.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/UI.uasset"
 			]
 		}
 	]
