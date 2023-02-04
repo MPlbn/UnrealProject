@@ -25,7 +25,6 @@
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/CiosMontage.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/Menu/MenuWidget.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/step.uasset",
-				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/FootstepsSound.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Pumpkinhulk_L_Shaw_Mutant_Walking.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Pumpkinhulk_L_Shaw_Drunk_Run_Forward.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/mixkit-hard-and-quick-punch-2143.uasset",
@@ -37,7 +36,11 @@
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/Redscreen.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/ChangePlayerScreen.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/beep.uasset",
-				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/UI.uasset"
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/UI.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/StarterContent/Audio/Collapse01.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/BP_FirstPersonGameModeBackup.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/BP_FirstPersonCharacterBackup.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/FootstepsSound.uasset"
 			]
 		}
 	]
