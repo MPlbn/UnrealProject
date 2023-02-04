@@ -13,7 +13,17 @@
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/mixkit-angry-dragon-growl-309.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"K:/GitHubRepos/UnrealProject/Gierka/Content/Backrooms.umap",
-				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/CatchesPlayer.uasset"
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Tasks/CatchesPlayer.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/Chase.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/NewSoundAttenuation.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/mixkit-wild-beast-roar-echo-1737.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/Soundcue/DalekiGrowl.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Monster/Monster.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/Sound/mixkit-monster-calm-growl-1956.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/Cios.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/AI/AnimacjaStrasznegoChujka/CiosMontage.uasset",
+				"K:/GitHubRepos/UnrealProject/Gierka/Content/Menu/MenuWidget.uasset"
 			]
 		}
 	]
